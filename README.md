@@ -1,7 +1,6 @@
 - 👋 Hey, I’m @alzhu05
-- 👀 I’m interested in healthcare economics
-- 🌱 I’m attending a vocational high school for biotechnology
-- 💞️ I’m looking to collaborate on learning to code for healthcare economics
+- 🌱 I’m attending a vocational high school for biomedical research
+- 💞️ I’m interested in computer science and mathematics
 
 <!---
 alzhu05/alzhu05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
