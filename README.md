@@ -1,6 +1,6 @@
-- 👋 Hey, I’m @alzhu05
-- 🌱 I’m attending a vocational high school for biomedical research
-- 💞️ I’m interested in computer science and mathematics
+- 👋 Hey, I'm Aleicia
+- 🌱 I'm learning C++ and Python for machine learning
+- 🏫 I’m studying computer science and math at Harvey Mudd College
 
 <!---
 alzhu05/alzhu05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
