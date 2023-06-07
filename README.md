@@ -1,5 +1,5 @@
 - 👋 Hey, I'm Aleicia
-- 🌱 I'm learning C++ and Python for machine learning
+- 🌱 I'm learning C++ and Python
 - 🏫 I’m studying computer science and math at Harvey Mudd College
 
 <!---
