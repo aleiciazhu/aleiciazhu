@@ -30,3 +30,5 @@ I'm a Computer Science and Math student at Harvey Mudd College with a focus on b
 
 📫 [Connect on LinkedIn](https://www.linkedin.com/in/aleicia-zhu)  
 📝 Resume available upon request
+
+Note: Some recent work is in private org repositories and may not appear on my public contributions chart.
