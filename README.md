@@ -11,7 +11,7 @@ I'm a Computer Science and Math student at Harvey Mudd College with a focus on b
 ## 📌 Featured Projects
 
 - **OpenEMR AI Integration** — Flask APIs and Kubernetes-deployed ML models powering predictions for 70K+ patients across a national health network  
-- **LLM Benchmarking Suite** — Python tooling to compare GPT, LLaMA, and Gemini; revealed 30% domain-specific accuracy gaps and enabled bias audits  
+- [**LLM Benchmarking Suite**](https://www.vals.ai/benchmarks/medqa-05-11-2025) — Python tooling to compare GPT, LLaMA, and Gemini; revealed 30% domain-specific accuracy gaps and enabled bias audits  
 - **Music Symbolic Hashing** — Custom MIDI-audio matching algorithm that raised precision from 47% to 83%  
 - **Doctor Finder** — Flask/React app using SQL and graph algorithms to match patients with culturally aligned doctors  
 
@@ -31,4 +31,4 @@ I'm a Computer Science and Math student at Harvey Mudd College with a focus on b
 📫 [Connect on LinkedIn](https://www.linkedin.com/in/aleicia-zhu)  
 📝 Resume available upon request
 
-Note: Some recent work is in private org repositories and may not appear on my public contributions chart.
+💡 Some of my most exciting work has been for private companies, so the code isn’t public — but you can still explore what I worked on through the links provided!
